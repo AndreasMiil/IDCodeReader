@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDCodeReader", "IDCodeReader\IDCodeReader.csproj", "{54CD6E93-CAAE-4DE2-918C-54782C50E42C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDCodeReader", "IDCodeReader\IDCodeReader.csproj", "{54CD6E93-CAAE-4DE2-918C-54782C50E42C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrig", "Substrig\Substrig.csproj", "{BE906850-A39E-4CF4-A262-391FCC94FCEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substrig", "Substrig\Substrig.csproj", "{BE906850-A39E-4CF4-A262-391FCC94FCEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "substring", "substring\substring.csproj", "{7C15D823-87E2-4D8E-911E-BC0C265C5BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "substring", "substring\substring.csproj", "{7C15D823-87E2-4D8E-911E-BC0C265C5BCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "substring2", "substring2\substring2.csproj", "{DBB4166F-1280-4A7E-9FC5-B8C516812975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "substring2", "substring2\substring2.csproj", "{DBB4166F-1280-4A7E-9FC5-B8C516812975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YearValidater", "YearValidater\YearValidater.csproj", "{B2E3F248-3923-4206-92B5-C6619791576F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DBB4166F-1280-4A7E-9FC5-B8C516812975}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBB4166F-1280-4A7E-9FC5-B8C516812975}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBB4166F-1280-4A7E-9FC5-B8C516812975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E3F248-3923-4206-92B5-C6619791576F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E3F248-3923-4206-92B5-C6619791576F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E3F248-3923-4206-92B5-C6619791576F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E3F248-3923-4206-92B5-C6619791576F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
